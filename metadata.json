@@ -1,0 +1,6 @@
+{
+  "name": "SellerPro",
+  "description": "All-in-one business management platform for online resellers and marketplace sellers. Calculate profits, track inventory, manage sales, and optimize marketplace fees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
