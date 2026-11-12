@@ -1,1 +1,1 @@
-/*    /index.html   200
+# SPA uses query params (?tab=...), so no catch-all rewrite is needed; it would block /api/* from reaching the server.
